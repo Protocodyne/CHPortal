@@ -1,5 +1,5 @@
 /getworld = >>>
 
-	msg(colorize("&f´ç½ÅÀº &e&l"pworld(player()) "&f¿ùµå¿¡ ÀÖ½À´Ï´Ù"))
+	msg(colorize("&fë‹¹ì‹ ì€ &e&l"pworld(player()) "&fì›”ë“œì— ìˆìŠµë‹ˆë‹¤"))
 
 <<<
