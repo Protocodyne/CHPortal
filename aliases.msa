@@ -1,0 +1,5 @@
+/getworld = >>>
+
+	msg(colorize("&f당신은 &e&l"pworld(player()) "&f월드에 있습니다"))
+
+<<<
